@@ -14,4 +14,4 @@ This project is a sample Lightning application that demonstrates the use of the 
 </a>
 
 3. Access the application from this URL:<br/>
-https://<b>&lt;YOUR_DOMAIN_HERE&gt;</b>.lightning.force.com/c/ModalSampleApp.app
+https://<b>&lt;YOUR_DOMAIN_HERE&gt;</b>.lightning.force.com/c/modalSampleApp.app
