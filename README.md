@@ -1,6 +1,6 @@
 # Sample application for Lightning Modal component
 
-<img src="https://raw.githubusercontent.com/pozil/sfdc-ui-modal/master/screenshots/example-app.png" width="300" align="right"/>
+<img src="https://raw.githubusercontent.com/pozil/sfdc-ui-modal/master/screenshots/annotated-features.png" width="350" align="right"/>
 
 This project is a sample Lightning application that demonstrates the use of the [Lightning Modal](https://github.com/pozil/sfdc-ui-modal) component.
 
