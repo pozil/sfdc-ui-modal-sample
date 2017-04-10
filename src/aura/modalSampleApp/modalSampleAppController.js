@@ -17,7 +17,7 @@
 		component.set("v.message", "");
         // We create progammatically a modal alert box
         $A.createComponent(
-			"c:modal", {'aura:id': 'theDynamicModal'},
+			"ui_modal:modal", {'aura:id': 'theDynamicModal'},
 			function(newModal, status, errorMessage){
 				//Add the new modal to the app body
 				if (status === "SUCCESS") {
